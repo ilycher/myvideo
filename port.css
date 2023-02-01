@@ -466,3 +466,30 @@ a:hover{
     border-radius: 50%;
     box-shadow: 0 0 0 20px rgba(255,255,255,.1);
 }
+
+.h2 {
+	margin: 0;
+	padding: 0;
+	font-size: 5vw;
+  letter-spacing: 8px;
+	font-weight: 900;
+  color: #fff;
+	line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.video_resol {
+	
+	margin: 0;
+	padding: 0;
+	font-size: 5vw;
+  letter-spacing: 8px;
+	font-weight: 900;
+  color: #fff;
+	line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+	
+ 
+}
